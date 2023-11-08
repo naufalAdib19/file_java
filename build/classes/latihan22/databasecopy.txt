@@ -1,0 +1,5 @@
+Naufal,1111,Pria
+Rangga,1112,Pria
+Leslar,1113,Wanita
+Olin,1114,Wanita
+Sania,1115,Wanita

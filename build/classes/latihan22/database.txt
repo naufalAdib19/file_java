@@ -1,0 +1,6 @@
+Naufal,1111,Pria
+Rangga,1112,Pria
+Wati,1113,Wanita
+Andi,1114,Pria
+Santi,1115,Wanita
+Didin,101010,Pria
